@@ -1,6 +1,6 @@
 # EXP : 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
-## Name: Rishi M 
-## Register no: 212222230119
+## Name: MOHAMED ASEEM P
+## Register no: 212221230063
 ## AIM:
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
